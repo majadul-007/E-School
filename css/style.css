@@ -1,0 +1,79 @@
+.container-fluid{
+    background-color: #F0FFF0;
+    height: 800px;
+}
+.navbar-brand img{
+    width: 300px;
+}
+.navbar-nav .n-link{
+    margin-right: 25px;
+    color: #fff;
+    font-weight: bold;
+}
+.navbar-nav{
+    font-size: 20px;
+
+}
+.navbar-nav .active{
+    background-color: #21B573;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.header-part .row h1{
+    font-weight: bold;
+    font-size: 55px;
+    margin-bottom: 30px;
+    /* color: red; */
+}
+.header-part .col-md-5 p:nth-child(1){
+    color: red;
+}
+
+.btn{
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: #21B573;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color:#fff;
+    /* font-weight: bold; */
+
+}
+.h1-color{
+    color: #21B573;
+}
+.feature-part .card img{
+    width: 100px;
+}
+.feature-part .card{
+    padding: 20px;
+    border: none;
+    background-color: #F8FFFB;
+    /* opacity: 0.9; */
+    border-radius: 10px;
+}
+.feature-part .card h5{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+.feature-part .card p{
+    text-align: center;
+    font-weight: bold;
+}
+.feature-part .card-2{
+    background-color: #fff;
+    box-shadow: 5px 5px 10px lightgray;
+    transform: scale(1.1);
+    height: 250px;
+}
+.body-part h1{
+    text-align: center;
+    margin: 80px 0px;
+    
+}
+.body-part .card{
+    border-radius: 15px;
+    padding: 10px;
+    
+}
